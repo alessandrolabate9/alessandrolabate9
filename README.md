@@ -13,30 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-#  I'm Alessandro Labate
-
-Data Engineer with 3 years of experience focused on building scalable and reliable data pipelines in cloud environments.
-
----
-
-## 🔧 Tech Stack
-- Python, SQL  
-- Spark / PySpark  
-- Databricks  
-- Azure (ADF, ADLS, Functions, Container Apps)  
-- Google Cloud Platform  
-- Airflow / Autosys  
-
----
-
-## 📌 What I Do
-- Build scalable ETL pipelines end-to-end  
-- Orchestrate and monitor data workflows  
-- Optimize performance and cloud costs  
-- Design production-oriented data architectures  
 <!--
----
+
 
 ## 📂 Featured Projects
 Below are some selected projects that demonstrate real-world data engineering scenarios,
@@ -69,4 +47,34 @@ flowchart LR
     Ingestion --> Raw[Raw Layer - ADLS]
     Raw --> Transformation[Databricks / Spark]
     Transformation --> Curated[Curated Layer]
+
 -->
+#  I'm Alessandro Labate
+
+Data Engineer with 3 years of experience focused on building scalable and reliable data pipelines in cloud environments.
+
+---
+
+## 🔧 Tech Stack
+- Python, SQL  
+- Spark / PySpark  
+- Databricks  
+- Azure (ADF, ADLS, Functions, Container Apps)  
+- Google Cloud Platform  
+- Airflow / Autosys  
+
+---
+
+## 📌 What I Do
+- Build scalable ETL pipelines end-to-end  
+- Orchestrate and monitor data workflows  
+- Optimize performance and cloud costs  
+- Design production-oriented data architectures
+
+---
+
+## 📫  How to reach me:
+- Email: alessandrolabate96@hotmail.it
+- LinkedIn: www.linkedin.com/in/alessandrolabate
+
+
