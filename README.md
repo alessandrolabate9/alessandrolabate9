@@ -40,14 +40,6 @@ readability, and cloud-oriented design principles.
 ## 🏗 Architecture
 The pipeline follows a layered architecture approach, commonly used in production
 data platforms.
-
-```mermaid
-flowchart LR
-    Source[External Data Source] --> Ingestion
-    Ingestion --> Raw[Raw Layer - ADLS]
-    Raw --> Transformation[Databricks / Spark]
-    Transformation --> Curated[Curated Layer]
-
 -->
 #  I'm Alessandro Labate
 
@@ -76,5 +68,4 @@ Data Engineer with 3 years of experience focused on building scalable and reliab
 ## 📫  How to reach me:
 - Email: alessandrolabate96@hotmail.it
 - LinkedIn: www.linkedin.com/in/alessandrolabate
-
 
